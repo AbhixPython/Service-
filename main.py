@@ -100,6 +100,9 @@ html_content = '''
         <div class="server-title">STUTAS<br></div>
         <a href="https://stutas.onrender.com" class="visit-button">Visit</a>
     </div>
+    <a href="https://wa.me/+9779844298980" target="_blank" style="position: fixed; bottom: 400px; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; z-index: 100;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2048px-WhatsApp.svg.png" alt="WhatsApp" style="width: 300px; height: 300px;">  <span style="margin-top: 10px; background-color: rgba(0, 0, 0, 0.5); color: white; padding: 8px 16px; border-radius: 8px; font-size: 40px;">Contact</span> </a>
+
 </div>
 
 </body>
