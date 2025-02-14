@@ -91,6 +91,15 @@ html_content = '''
         <div class="server-title">ABOUT<br></div>
         <a href="https://about-ypme.onrender.com" class="visit-button">Visit</a>
     </div>
+
+    <div class="container">
+    <div class="box">
+        <div class="image-container">
+            <img src="https://i.ibb.co/27J5BSNM/20250215-001929.jpg" alt="">
+        </div>
+        <div class="server-title">STUTAS<br></div>
+        <a href="https://stutas.onrender.com" class="visit-button">Visit</a>
+    </div>
 </div>
 
 </body>
