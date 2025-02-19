@@ -98,7 +98,7 @@ html_content = '''
             <img src="https://i.ibb.co/27J5BSNM/20250215-001929.jpg" alt="">
         </div>
         <div class="server-title">STUTAS<br></div>
-        <a href="https://stutas.onrender.com" class="visit-button">Visit</a>
+        <a href="https://stutas-451e.onrender.com" class="visit-button">Visit</a>
     </div>
 </div>
 
